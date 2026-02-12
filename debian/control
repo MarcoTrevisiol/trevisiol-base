@@ -78,7 +78,7 @@ Depends: ${misc:Depends},
  fonts-terminus-otb,
  xcompmgr,
  xorg,
- trevisiol-dwm,
+ trevisiol-dwm | trevisiol-dwm-vm,
 Description: minimal configuration for desktop
  This package install packages needed for any graphical installation.
 
