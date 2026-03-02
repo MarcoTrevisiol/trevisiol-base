@@ -157,6 +157,8 @@ Package: trevisiol-gaming
 Architecture: all
 Depends: ${misc:Depends},
  lutris,
+ libsdl2-2.0-0,
+ libsdl2-mixer-2.0-0,
  steam-installer,
  wine-stable,
  wine32,
